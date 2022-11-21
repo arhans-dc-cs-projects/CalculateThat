@@ -1,5 +1,5 @@
 # Challenge - Calculate That!
-Y9 School Assignment - Calculate that!
+Y9 School Assignment - Calculate that! Finished this on <b> 21/11/22</b>.
 
 ![image](https://user-images.githubusercontent.com/106308047/202972448-6e5415fa-c087-4fb1-b807-9615dc791f19.png)
 
